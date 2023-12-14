@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FlipKart clone](https://github.com/pratikshelar546/flipcart-clone)
 
-- 👨‍💻 All of my projects are available at [https://pratikshelar-portfolio.netlify.app/](https://pratikshelar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratik-shelar.netlify.app/](https://pratik-shelar.netlify.app/)
 
 - 📫 How to reach me **pratikshelar987@gmail.com**
 
