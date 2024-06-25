@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshelar546" alt="pratikshelar546" /></a> </p>
 
-- 🔭 I’m currently working on [FlipKart clone](https://github.com/pratikshelar546/flipcart-clone)
+- 🔭 Latest Project on [ShopKart(FlipKart clone)](https://github.com/pratikshelar546/flipcart-clone)(https://shopkart-xea2.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://pratik-shelar.netlify.app/](https://pratik-shelar.netlify.app/)
 
