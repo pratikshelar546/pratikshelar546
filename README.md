@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshelar546&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshelar546" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshelar546" alt="pratikshelar546" /></a> </p>
+
 - Open for work as freelancer or full time as well
 
 - 🔭 Latest Project on [ShopKart(FlipKart clone)](https://github.com/pratikshelar546/flipcart-clone)(https://shopkart-xea2.onrender.com/)
