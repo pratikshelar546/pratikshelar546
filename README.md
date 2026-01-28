@@ -7,7 +7,7 @@
 
 - Open for work as freelancer or full time as well
 
-- 🔭 Latest Project on [ShopKart(FlipKart clone)](https://github.com/pratikshelar546/flipcart-clone)(https://shopkart-xea2.onrender.com/)
+- 🔭 Latest Project on [Expensewise(where we can track our expense)](https://github.com/pratikshelar546/expensetrackerclient)[Visit](https://expensewisee.vercel.app/))
 
 - 👨‍💻 All of my projects are available at [https://pratik-shelar.netlify.app/](https://pratik-shelar.netlify.app/)
 
